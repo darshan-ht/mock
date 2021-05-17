@@ -1,0 +1,5 @@
+{"centers":[
+    {"name":"name1","address":"address1","pincode":"pincode1","sessions":[{"min_age_limit":18,"available_capacity":12}]},
+    {"name":"name2","address":"address2","pincode":"pincode2","sessions":[{"min_age_limit":45,"available_capacity":0}]},
+    {"name":"name3","address":"address3","pincode":"pincode3","sessions":[{"min_age_limit":45,"available_capacity":0}]}
+]}
